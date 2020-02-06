@@ -6,4 +6,4 @@ def giaithua(a):
 	return a* giaithua(a -1) 
 
 print (giaithua(a))
-print (" giai thua của ",a, "là " giaithua(a))
+print (" giai thua của ",a, "là ", giaithua(a))
