@@ -6,4 +6,8 @@ def giaithua(a):
 	return a* giaithua(a -1) 
 
 print (giaithua(a))
+<<<<<<< HEAD
 print (" giai thua của ",a, "là " giaithua(a))
+=======
+print (" giai thua của ",a, "là ", giaithua(a))
+>>>>>>> c9e4ed8a9f3873621637d4e83b7255e2746591cb
